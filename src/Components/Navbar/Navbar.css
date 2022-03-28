@@ -1,0 +1,26 @@
+
+
+.navback {
+    background: linear-gradient(45deg, #000, #FF7152 33%, #FA0A6F 100%);
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    transform: scale(1);
+    transition: 0.5s all;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #FFFFFF !important;
+    text-shadow: 0 0 9px #FFFFFF;
+    transform: scale(1.5);
+    opacity: 1;
+    transition: 0.5s all;
+}
+
+li[data-aos-delay="0"]>a {
+    color: #FFFFFF !important;
+    text-shadow: 0 0 9px #FFFFFF;
+    transform: scale(1.2) !important;
+    opacity: 1;
+
+}

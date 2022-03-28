@@ -1,0 +1,16 @@
+.button {
+    background: transparent;
+    border-radius: 65px;
+    border: 1px solid rgba(255, 255, 255, 0.1);;
+    color: #fff;
+    margin:10px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 12px 48px;
+}

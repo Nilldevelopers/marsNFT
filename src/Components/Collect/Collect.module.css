@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/*------------------------------------- font-family -----------------------------------------------*/
+
+@font-face {
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 700;
+    src: url('../../../public/Fonts/SP-Font.ttf');
+    src: url('../../../public/Fonts/SP-Font.ttf') format('embedded-opentype'),
+    url('../../../public/Fonts/SP-Font.ttf') format('woff2'),
+    url('../../../public/Fonts/SP-Font.ttf') format('woff'),
+    url('../../../public/Fonts/SP-Font.ttf') format('truetype')
+}
+
+.text-style {
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 57px;
+    line-height: 70px;
+    /* or 123% */
+    color: #FFFFFF;
+}
+
+.gradient-txt {
+    font-family: SF Pro Display;
+
+    font-weight: bolder;
+    background: -webkit-linear-gradient(0deg, #FFEC45, #FF7152, #FA0A6F, #9361FF);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.information-txt {
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 164%;
+    color: #FFFFFF;
+    opacity: 0.85;
+}
+
+.colorize-decoration::after {
+    content: "";
+    position: absolute;
+    bottom: 2px;
+    left: 0;
+    bottom: -1px;
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(90deg, #FFEC45, #FF7152, #FA0A6F, #9361FF);
+}
+

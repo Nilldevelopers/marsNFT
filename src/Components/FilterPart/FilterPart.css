@@ -1,0 +1,65 @@
+
+.portfolio__labels {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 10vh;
+    margin-bottom: 5vh;
+    flex-wrap: wrap;
+}
+
+.portfolio__labels a {
+    font-weight: bold;
+    color: #333;
+    margin: 20px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    padding: 1px 15px;
+    border-radius: 60px;
+}
+
+.border_class {
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 16px;
+
+}
+
+.filter_items {
+    display: flex;
+    flex-direction: column;
+}
+
+.width_100 {
+    width: -webkit-fill-available;
+}
+
+.my_margin {
+    margin: 0px 9px 7px 7px;
+}
+
+a {
+    transition: 0.5s all;
+}
+
+a.active_filter {
+    color: #FFFFFF !important;
+    transform: scale(1.2) !important;
+    opacity: 1;
+    transition: 0.5s all;
+}
+
+.filter-btn{
+    background: transparent;
+    border-radius: 65px;
+    border: 1px solid rgba(255, 255, 255, 0.1);;
+    color: #fff;
+    margin:10px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 11px 51px;
+}

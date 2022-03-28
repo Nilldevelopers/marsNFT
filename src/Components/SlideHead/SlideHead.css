@@ -1,0 +1,51 @@
+.h-20 {
+    height: 20px;
+}
+.more-opt{
+    color: #FFFFFF;
+    opacity: 0.55;
+    transition: 0.5s all;
+}
+.more-opt:hover{
+    color: #FFFFFF !important;
+    text-shadow: 0 0 9px #FFFFFF;
+    transform: scale(1.5);
+    opacity: 1;
+    transition: 0.5s all;
+}
+a:hover{
+    color: unset !important;
+}
+.fire:before {
+    content: "";
+    display: block;
+    background: url('./img/fire.png') no-repeat;
+    width: 21px;
+    height: 27px;
+    float: left;
+    -webkit-filter: drop-shadow(0 0 9px rgb(255, 5, 49));
+    filter: drop-shadow(0px 0px 12px rgb(255, 5, 49));
+}
+.death:before {
+    content: "";
+    display: block;
+    background: url('./img/Death.png') no-repeat;
+    width: 21px;
+    height: 27px;
+    float: left;
+    -webkit-filter: drop-shadow(0 0 9px wheat);
+    filter: drop-shadow(0px 0px 12px wheat);
+}
+.yeah:before {
+    content: "";
+    display: block;
+    background: url('./img/yeah.png') no-repeat;
+    width: 21px;
+    height: 27px;
+    float: left;
+    -webkit-filter: drop-shadow(0 0 9px yellow);
+    filter: drop-shadow(0px 0px 12px yellow);
+}
+.pt-100{
+    padding-top: 100px;
+}

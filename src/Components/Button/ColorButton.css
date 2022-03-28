@@ -1,0 +1,26 @@
+.btn-style {
+    background: transparent;
+    border-radius: 65px;
+    color: #fff;
+    margin:10px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    padding: 12px 105px;
+    background: linear-gradient(90deg, #FFEC45, #FF7152, #FA0A6F, #9361FF, #8bf1ff9c 99%);
+}
+
+.btn-style>span {
+    font-family: SF Pro Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+}

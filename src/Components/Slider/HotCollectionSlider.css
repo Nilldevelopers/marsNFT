@@ -1,0 +1,27 @@
+.Hot-item {
+    margin: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+
+.img-icon {
+    width: 60px;
+    height: 60px;
+}
+
+.eclipse_img {
+    top: -30px;
+    right: 0;
+    left: -26px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+.img_C>img{
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
