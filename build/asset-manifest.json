@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/marsNFT/static/css/main.e2be931e.css",
+    "main.js": "/marsNFT/static/js/main.d4876db2.js",
+    "static/js/787.919dc269.chunk.js": "/marsNFT/static/js/787.919dc269.chunk.js",
+    "static/media/tablo.png": "/marsNFT/static/media/tablo.c17a7296a85e26245ebf.png",
+    "static/media/Group 13.png": "/marsNFT/static/media/Group 13.b3c1597dd207bf743082.png",
+    "static/media/SP-Font.ttf": "/marsNFT/static/media/SP-Font.1e1c0e29b79b49a6ff4d.ttf",
+    "static/media/image_2.png": "/marsNFT/static/media/image_2.def82214fc2d27eba3eb.png",
+    "static/media/image_10.png": "/marsNFT/static/media/image_10.caab041a24ef8312be6a.png",
+    "static/media/image_14.png": "/marsNFT/static/media/image_14.c2284bb75a931f5937f5.png",
+    "static/media/image_15.png": "/marsNFT/static/media/image_15.afb2f14382897c5f498b.png",
+    "static/media/image_1.png": "/marsNFT/static/media/image_1.b459e0a362f39983e0c4.png",
+    "static/media/image_12.png": "/marsNFT/static/media/image_12.d408c4c3221995c19dc2.png",
+    "static/media/image_3.png": "/marsNFT/static/media/image_3.78b88052e13048aee1e6.png",
+    "static/media/image_8.png": "/marsNFT/static/media/image_8.50139d985066002d9f4c.png",
+    "static/media/Hot.png": "/marsNFT/static/media/Hot.cc64a36a5472d2bdaac0.png",
+    "static/media/image_11.png": "/marsNFT/static/media/image_11.367a673ab53a0b9ee719.png",
+    "static/media/image_4.png": "/marsNFT/static/media/image_4.66130c67ae2b3f1e86a8.png",
+    "static/media/Hot_2.png": "/marsNFT/static/media/Hot_2.8617b6154981ec150b7b.png",
+    "static/media/image_7.png": "/marsNFT/static/media/image_7.88944d926cb00c91cd35.png",
+    "static/media/image_6.png": "/marsNFT/static/media/image_6.a81768b1079a1274c5a9.png",
+    "static/media/image_9.png": "/marsNFT/static/media/image_9.d324cbcd952f96161eed.png",
+    "static/media/Hot_3.png": "/marsNFT/static/media/Hot_3.f4509b1a5d4339bcd566.png",
+    "static/media/image_13.png": "/marsNFT/static/media/image_13.eb03bb4523f58ebe02b6.png",
+    "static/media/image_5.png": "/marsNFT/static/media/image_5.43c1f0251148736565e0.png",
+    "static/media/Hot_1.png": "/marsNFT/static/media/Hot_1.800f144f315d5cac2c9c.png",
+    "static/media/slick.svg": "/marsNFT/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/marsNFT/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/marsNFT/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/marsNFT/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/marsNFT/index.html",
+    "main.e2be931e.css.map": "/marsNFT/static/css/main.e2be931e.css.map",
+    "main.d4876db2.js.map": "/marsNFT/static/js/main.d4876db2.js.map",
+    "787.919dc269.chunk.js.map": "/marsNFT/static/js/787.919dc269.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2be931e.css",
+    "static/js/main.d4876db2.js"
+  ]
+}
